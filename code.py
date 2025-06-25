@@ -1,6 +1,6 @@
 """
 Install selenium by pip install selenium
-also download the chroedriver from 'https://chromedriver.chromium.org/downloads' same as your chrome browser version
+also download the chromedriver from 'https://chromedriver.chromium.org/downloads' same as your chrome browser version
 """
 
 from selenium import webdriver
